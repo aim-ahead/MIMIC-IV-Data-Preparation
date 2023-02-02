@@ -4,7 +4,8 @@ Tutorial on processing raw EHR data with MIMIC-IV v1.0 dataset
 ## Overview
 
 This tutorial provides a brief overview of EHR data and some of the data processing steps involved in getting the data research ready. Its recommended that you read through the items in order as listed below. 
-**NOTE: We use [MIMIC-IV v1.0](https://physionet.org/content/mimiciv/1.0/) dataset for this tutorial. Users would need to be credentialed to get access this data. More information can be found at the bottom of this [page](https://physionet.org/content/mimiciv/1.0/)**
+
+**NOTE: We use [MIMIC-IV v1.0](https://physionet.org/content/mimiciv/1.0/) dataset for this tutorial. Users would need to be credentialed to access this data. More information can be found at the bottom of this [page](https://physionet.org/content/mimiciv/1.0/)**
 
 <br/>
 
