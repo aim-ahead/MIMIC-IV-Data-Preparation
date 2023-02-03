@@ -27,7 +27,6 @@ This tutorial provides a brief overview of EHR data and some of the data process
 
 #### 4. Cleaned_MIMIC-IV_data
 * The final cleaned output files would be generated once the scripts are executed as described in Data preparation code documentation 
-* The final output files can also be downloaded [here](https://hu-my.sharepoint.com/:u:/g/personal/vidul_hms_harvard_edu/EUrsQjHAyspKvdA5rTTi85kBcWYkyA3CZWproKAQSdnYyg?e=UTq3M7)
 
 
 <br/>
