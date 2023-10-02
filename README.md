@@ -35,7 +35,8 @@ This tutorial provides a brief overview of EHR data and some of the data process
 We strongly recommend going through the documentation before trying the pipeline below.
 
 * Clone this repository
-* Download MIMIC-IV v1.0 from [here](https://physionet.org/content/mimiciv/1.0/)
+* Register and download MIMIC-IV v1.0 from [here](https://physionet.org/content/mimiciv/1.0/)
+* On terminal interface, run the following to download the entire MIMIC-IV v1.0 "wget -r -N -c -np --user insert-physionet-username-here --ask-password https://physionet.org/files/mimiciv/1.0/"
 * Set the path for input data (MIMIC data), dependency and roll up files and output dir under \MIMIC-IV_Data_Preparation_V1.0\code\settings.py
 * Run \MIMIC-IV_Data_Preperation_V1.0\code\clean_mimic.py
 
